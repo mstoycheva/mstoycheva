@@ -1,11 +1,11 @@
-<h1 align="center">👋 mstoycheva</h1>
+<h1 align="center">👋I'm Marieta Stoycheva</h1>
 <h3 align="center">Cybersecurity student</h3>
 
 ---
 
 ### 🌱 About Me
 
-- 💻 Passionate about developing **clean, robust software**, finding innovative solutions, and learning new things everyday.
+- 💻 Passionate about developing clean and meaningful software, finding innovative solutions, and learning new things everyday.
 - 🎓 Currently studying Cybersecurity / Bachelor's degree.
 - 💡 Used to working in a team while being a backend or scrum master
 
