@@ -1,4 +1,4 @@
-<h1 align="center">👋I'm Marieta Stoycheva</h1>
+<h1 align="center">Marieta Stoycheva</h1>
 <h3 align="center">Cybersecurity student</h3>
 
 ---
@@ -24,7 +24,7 @@
 
 ### 🧰 Tools & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mssql,git,github,vscode,visualstudio,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mssql,git,github,vscode,visualstudio,idea,mysql&theme=dark" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" title="Microsoft SQL Server" />
 </p>
 
